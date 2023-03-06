@@ -2,4 +2,7 @@
   "names": {
     "statusquont": "988f12f72c4819b5d011ee70d881356a5ad16c9a1ca22a66530ac72eb1d501ea"
   }
+  "identities": [
+    {"type": "github", "claim": "statusquont", "proof": "https://github.com/statusquont"}
+]
 }
